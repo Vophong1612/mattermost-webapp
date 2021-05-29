@@ -59,7 +59,7 @@ exports[`components/SignupEmail should match snapshot 1`] = `
             >
               <strong>
                 <FormattedMessage
-                  defaultMessage="What's your email address?"
+                  defaultMessage="What's your email?"
                   id="signup_user_completed.whatis"
                 />
               </strong>
